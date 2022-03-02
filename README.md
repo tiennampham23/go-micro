@@ -1,5 +1,5 @@
 ## Timeline
-- [ ] Logger
+- [x] Logger
 - [ ] Transport
   - [ ] HTTP
   - [ ] gRPC
